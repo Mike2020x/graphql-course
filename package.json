@@ -9,15 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/graphql-crash-course.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamshaunjp/graphql-crash-course/issues"
-  },
-  "homepage": "https://github.com/iamshaunjp/graphql-crash-course#readme",
+  "bugs": {},
+  "homepage": "",
   "type": "module",
   "dependencies": {
     "@apollo/server": "^4.9.3",
